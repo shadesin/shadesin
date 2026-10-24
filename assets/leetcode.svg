@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="140" height="38" viewBox="0 0 140 38" role="img" aria-labelledby="title">
+  <title id="title">LeetCode</title>
+  <rect width="140" height="38" rx="6" fill="#24292f"/>
+  <g transform="translate(13 7)" fill="none" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M15 1L5 11c-3 3-3 5 0 8l3 3c2 2 5 2 7 0l2-2" stroke="#ffa116"/>
+    <path d="M7 9l3-3c2-2 4-2 6 0l3 3" stroke="#e9eef5"/>
+    <path d="M10 15h12" stroke="#b7c6d9"/>
+  </g>
+  <text x="47" y="24" fill="#fff" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700">LeetCode</text>
+</svg>
